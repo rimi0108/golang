@@ -8,7 +8,7 @@ All those threads and continuations
 My head's going to explode
 내 머리는 폭발할 것 같아
 And all that boilerplate
-심지어 그 모든 의례적인 코드[21]들
+심지어 그 모든 의례적인 코드들
 That FactoryBuilderAdapterDelegateImpl
 그 모든 "괴상한디자인패턴의복잡다단한구현"
 Seems unjustified
@@ -36,7 +36,7 @@ Go로 짜! Go로 짜!
 There's no do or while, just for
 do도 while도 없어, 오직 for뿐
 I don't care what your linters say
-당신의 린터[22]가 뭐라고 말하든 상관없어
+당신의 린터가 뭐라고 말하든 상관없어
 I've got tools for that
 내겐 수정툴이 있다고
 The code never bothered me anyway
